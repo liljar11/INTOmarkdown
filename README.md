@@ -1,7 +1,6 @@
 #Open Source
 
-Alexandra Einarsdóttir
-Liljar Már Þorbjörnsson
+Alexandra Einarsdóttir og Liljar Már Þorbjörnsson
 
 ## 1. Linux uppsetning
 
