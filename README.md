@@ -23,6 +23,7 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 The url to our forked repository: 
 	https://github.com/liljar11/INTOPrufa
+	https://github.com/liljar11/INTOmarkdown
 
 ## 4. Uppsettur hugbúnaður
 
