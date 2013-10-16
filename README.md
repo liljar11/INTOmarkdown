@@ -6,7 +6,7 @@ Alexandra Einarsdóttir og Liljar Már Þorbjörnsson
 
 We installed Linux on a usb key according to the instructions and it worked just fine without any problems.
 
-![](http://direct_public_image_url)
+![Image](https://raw.github.com/liljar11/INTOmarkdown/master/liljar)
 
 ## 2. Uppsetning á vim && git
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
