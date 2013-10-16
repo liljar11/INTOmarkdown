@@ -1,7 +1,7 @@
 #Open Source
 
 Alexandra Einarsdóttir og Liljar Már Þorbjörnsson
-![Alt text](http://imageshack.us/photo/my-images/163/6pqw.png/)
+![Alt text](http://imageshack.us/photo/my-images/163/6pqw.png/?raw=true)
 
 ## 1. Linux uppsetning
 
