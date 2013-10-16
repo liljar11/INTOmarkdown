@@ -30,9 +30,9 @@ Ubuntu:
 	Ubuntu's licence policy is organized into four key groups or components: main, restricted, universe and multiverse. It is explained in greater detail on their website under licencing (http://www.ubuntu.com/about/about-ubuntu/licensing)
 
 Firefox: 
-	On their website they explain their licence such:
-
-    New files in, or modifications to, an existing, consistently-licensed area of code should be under the same license as the existing code.
+	On their website they explain their licence such:     
+	
+	New files in, or modifications to, an existing, consistently-licensed area of code should be under the same license as the existing code.
     New projects should be under the MPL 2.0 or Apache 2.0 - see below for guidance on choosing which.
     You must consult the licensing team before importing third-party code which is not under the MPL or Apache 2.0.
 
