@@ -25,7 +25,7 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 
 Liljar: Firefox, VLC
 
-Alexandra:Firefox, VLC
+Alexandra: Firefox, VLC
 
 Ubuntu:
 	Ubuntu's licence policy is organized into four key groups or components: main, restricted, universe and multiverse. It is explained in greater detail on their website under licencing (http://www.ubuntu.com/about/about-ubuntu/licensing)
