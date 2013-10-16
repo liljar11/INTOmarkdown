@@ -8,6 +8,7 @@ Alexandra Einarsdóttir og Liljar Már Þorbjörnsson
 
 We installed Linux on a usb key according to the instructions and it worked just fine without any problems.
 
+
 ## 2. Uppsetning á vim && git
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
 
