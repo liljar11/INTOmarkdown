@@ -2,6 +2,8 @@
 
 Alexandra Einarsdóttir og Liljar Már Þorbjörnsson
 
+
+
 ## 1. Linux uppsetning
 
 We installed Linux on a usb key according to the instructions and it worked just fine without any problems.
