@@ -6,23 +6,25 @@ Alexandra Einarsdóttir og Liljar Már Þorbjörnsson
 
 We installed Linux on a usb key and it worked just fine without any problems.
 
-## 2. Uppsetning á vim && git og 
+## 2. Uppsetning á vim && git
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
 
-Installing Vim and Git was no problem but when creating the SSH key there was no .ssh directory so we had to create that. 
+Installing Vim and Git was no problem and editing the code also went fine. but when creating the SSH key there was no .ssh directory so we had to create that. 
 Also when installing xclip it was unable to locate the package xclip. So we used the command cat on id_rsa.pub to claim the SSH key. AFter that everything went as expected. 
 
-The url to our forked repository: 
-	https://github.com/liljar11/INTOPrufa
 
 ## 3. Unnið með Git (1. hluti)
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+
+The url to our forked repository: 
+	https://github.com/liljar11/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 Liljar: Firefox, VLC
+
 Alexandra:Firefox, VLC
 
 Ubuntu:
@@ -31,9 +33,9 @@ Ubuntu:
 Firefox: 
 	On their website they explain their licence such:     
 	
-	New files in, or modifications to, an existing, consistently-licensed area of code should be under the same license as the existing code.
-    New projects should be under the MPL 2.0 or Apache 2.0 - see below for guidance on choosing which.
-    You must consult the licensing team before importing third-party code which is not under the MPL or Apache 2.0.
+New files in, or modifications to, an existing, consistently-licensed area of code should be under the same license as the existing code.
+New projects should be under the MPL 2.0 or Apache 2.0 - see below for guidance on choosing which.
+You must consult the licensing team before importing third-party code which is not under the MPL or Apache 2.0.
 
 You can find a more detailed explanation of their licence policy here: (http://www.mozilla.org/MPL/license-policy.html)
 
