@@ -6,10 +6,8 @@ Alexandra Einarsdóttir og Liljar Már Þorbjörnsson
 
 We installed Linux on a usb key and it worked just fine without any problems.
 
-## 2. Uppsetning á vim && git og ## 3. Unnið með Git (1. hluti)
+## 2. Uppsetning á vim && git og 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 Installing Vim and Git was no problem but when creating the SSH key there was no .ssh directory so we had to create that. 
 Also when installing xclip it was unable to locate the package xclip. So we used the command cat on id_rsa.pub to claim the SSH key. AFter that everything went as expected. 
@@ -17,6 +15,8 @@ Also when installing xclip it was unable to locate the package xclip. So we used
 The url to our forked repository: 
 	https://github.com/liljar11/INTOPrufa
 
+## 3. Unnið með Git (1. hluti)
+Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 ## 4. Uppsettur hugbúnaður
 
